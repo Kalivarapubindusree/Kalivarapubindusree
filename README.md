@@ -37,3 +37,5 @@
 
 
   [![bindusree's GitHub | Languages Over Time](https://stats.quine.sh/bindusree/languages-over-time?theme=light)](https://quine.sh)
+  
+  [![bindusree's GitHub | Topics Over Time](https://stats.quine.sh/bindusree/topics-over-time?theme=light)](https://quine.sh)
