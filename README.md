@@ -43,3 +43,5 @@
   [![bindusree's GitHub | Topics Over Time](https://stats.quine.sh/bindusree/topics-over-time?theme=light)](https://quine.sh)
 
 [![bindusree's Stack Overflow | Stats](https://stats.quine.sh/bindusree/stack-overflow?theme=light)](https://quine.sh)
+
+[![bindusree's GitHub | Stats](https://stats.quine.sh/bindusree/github?theme=light)](https://quine.sh)
