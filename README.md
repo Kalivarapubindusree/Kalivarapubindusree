@@ -44,4 +44,3 @@
 
 [![bindusree's Stack Overflow | Stats](https://stats.quine.sh/bindusree/stack-overflow?theme=light)](https://quine.sh)
 
-[![bindusree's GitHub | Stats](https://stats.quine.sh/bindusree/github?theme=light)](https://quine.sh)
