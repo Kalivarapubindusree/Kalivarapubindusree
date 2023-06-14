@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kalivarapubindusree@gmail.com**
 
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1zWXzFQSpx_G89FHq1u9eyEjza6B-J-vJ/view?usp=sharing)
+- 📄 Know about my experiences [**work experience**](https://drive.google.com/file/d/1zWXzFQSpx_G89FHq1u9eyEjza6B-J-vJ/view?usp=sharing)
 
 - ⚡ Fun fact **Be friendly with coding.**
 
