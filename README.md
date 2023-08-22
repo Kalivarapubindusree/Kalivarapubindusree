@@ -38,7 +38,7 @@
 
 [![bindusree's GitHub | Stats](https://stats.quine.sh/bindusree/github?theme=light)](https://quine.sh)
 
-
+[![bindusree's GitHub | Dependencies](https://stats.quine.sh/bindusree/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bindusree)
 
   [![bindusree's GitHub | Languages Over Time](https://stats.quine.sh/bindusree/languages-over-time?theme=light)](https://quine.sh)
   
