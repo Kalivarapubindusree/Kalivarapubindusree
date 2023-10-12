@@ -36,6 +36,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalivarapubindusree&" alt="kalivarapubindusree" /></p>
 
+https://camo.githubusercontent.com/b6a83427005144cde99ea3f413d19a9a252e37585a0e5662d2f582bbe04cba41/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656c746f636965617226636f756e745f707269766174653d74727565267468656d653d6d65726b6f2673686f775f69636f6e733d7472756526636f756e745f707269766174653d747275652673616e6974697a653d74727565
+
 [![bindusree's GitHub | Stats](https://stats.quine.sh/bindusree/github?theme=light)](https://quine.sh)
 
 [![bindusree's GitHub | Dependencies](https://stats.quine.sh/bindusree/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bindusree)
