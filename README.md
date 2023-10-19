@@ -36,6 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalivarapubindusree&" alt="kalivarapubindusree" /></p>
 
+[![An image of @kalivarapubindusree's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kalivarapubindusree)](https://holopin.io/@kalivarapubindusree)
 
 [![bindusree's GitHub | Stats](https://stats.quine.sh/bindusree/github?theme=light)](https://quine.sh)
 
