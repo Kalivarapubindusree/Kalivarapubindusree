@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalivarapubindusree&label=Profile%20views&color=0e75b6&style=flat" alt="kalivarapubindusree" /> </p>
 
-- 🔭 I’m currently working on **Google Cloud Platform(GCP)**
+- 🔭 I’m currently working on **Mern Stack**
 
 - 🌱 I’m currently learning **Data structures and algorithms.**
 
